@@ -1,7 +1,7 @@
 ## DALE MINHA MAQUINA! 👋
     
 - ⭐🌈🌞✟ Pernambucano bairrista, entendesse?
-- 🌱 Estudando programção no [Bootcamp Java fullstack da Generation Brasil.](https://brazil.generation.org/)
+- 🌱 Estudando programação no [Bootcamp Java fullstack da Generation Brasil.](https://brazil.generation.org/)
 - 😄 Pronomes: Ele / Dele
 
 <div>
