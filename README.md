@@ -1,11 +1,10 @@
 
-![Alt Text](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
+![Alt Text](https://media0.giphy.com/media/ghiMEnnnIE5xe/giphy.gif?cid=790b761169cd399c0a22da469c47ab495e7400afb7042253&rid=giphy.gif&ct=s)
 
 <div>
   <a href="https://github.com/JU7I0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JU7I0&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU7I0&layout=compact&langs_count=7&theme=swift"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JU7I0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU7I0&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ##
