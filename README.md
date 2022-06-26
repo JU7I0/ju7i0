@@ -1,15 +1,17 @@
-<h1>Programador BACK END.</h1>
+## Olá me chamo Julio, progamador full stack.
 
 <div align="center">
- <img  height="350" src="https://media2.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=ecf05e47anrtnbscefmm3jmlqvcbby98l4k86t68ah4d5zay&rid=giphy.gif&ct=ts"/>
+<img width="350" src="https://media2.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=ecf05e47anrtnbscefmm3jmlqvcbby98l4k86t68ah4d5zay&rid=giphy.gif&ct=ts"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/JU7I0">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JU7I0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU7I0&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
+##
+
+ #### Formas de contato: 
+ <div >
+ <a href = "mailto:juliocezarbarros2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliocezarbarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+
 ##
 
 #### Tecnologias que utilizo no Back-end:
@@ -34,14 +36,17 @@
 #### Tecnologias que utilizo para versionamento:
 [![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&https://github.com/igorluan95)](https://github.com/igorluan95)    
+
+##
+
+#### Dados dos meus rpositórios:
+<div align="center">
+  <a href="https://github.com/JU7I0">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JU7I0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JU7I0&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
+
  ##
  
 ![snake gif](https://github.com/JU7I0/ju7i0/blob/output/github-contribution-grid-snake.svg)
- 
- ##
- 
- <div >
- <a href = "mailto:juliocezarbarros2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliocezarbarros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
