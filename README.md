@@ -1,4 +1,4 @@
-## Olá me chamo Julio, progamador full stack.
+## Olá me chamo Julio, progamador backend.
 
 <div align="center">
 <img width="350" src="https://media2.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=ecf05e47anrtnbscefmm3jmlqvcbby98l4k86t68ah4d5zay&rid=giphy.gif&ct=ts"/>
