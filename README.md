@@ -25,7 +25,6 @@
 
 #### Tecnologias que utilizo no Front-end:
 [![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
-[![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=E34F26&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=Bootstrap&logoColor=7952B3&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
 [![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572B6&https://github.com/igorluan95)](https://www.linkedin.com/in/igorluan95/)
