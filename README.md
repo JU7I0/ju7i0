@@ -1,4 +1,4 @@
-## Olá me chamo Julio, progamador backend.
+## Olá me chamo Julio.
 
 ##
 
